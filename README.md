@@ -25,7 +25,7 @@ I'm a passionate developer with a diverse skill set, ranging from basic HTML to 
 
 ## 🌐 Portfolio
 
-Check out my portfolio site: [Salum Kilangalila Portfolio](https://www.your-portfolio-url.com)
+Check out my portfolio site: [Salum Kilangalila Portfolio](https://serm-dev.vercel.app)
 
 ## 🔗 Connect with Me
 
