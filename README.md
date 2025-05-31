@@ -23,9 +23,6 @@ I'm a passionate developer with a diverse skill set, ranging from basic HTML to 
 - 🌐 I'm learning new things every day to enhance my web development skills.
 - 🎓 Studying Computer Science to deepen my understanding of software engineering.
 
-## 🌐 Portfolio
-
-Check out my portfolio site: [Salum Kilangalila Portfolio](https://serm-dev.vercel.app)
 
 ## 🔗 Connect with Me
 
